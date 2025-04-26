@@ -1,25 +1,4 @@
 ﻿Entries:
-- author: ArtisticRoomba
-  changes:
-  - message: The pneumatic valve now has a more descriptive description.
-    type: Tweak
-  id: 7853
-  time: '2025-01-27T07:40:23.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32655
-- author: Helm
-  changes:
-  - message: Fixed an overly roomy matchbox!
-    type: Fix
-  id: 7854
-  time: '2025-01-27T08:30:32.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34632
-- author: metalgearsloth
-  changes:
-  - message: Fix hovering storage containers flickering sometimes.
-    type: Fix
-  id: 7855
-  time: '2025-01-27T10:29:51.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33045
 - author: Coolsurf6
   changes:
   - message: Added the ability for a creature to be unable to feel pain
@@ -3932,3 +3911,26 @@
   id: 8354
   time: '2025-04-26T03:22:52.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/32676
+- author: SyaoranFox
+  changes:
+  - message: Pulse Pistol, Pulse Carbine, and Pulse Rifle now share the same sound
+      file.
+    type: Tweak
+  id: 8355
+  time: '2025-04-26T13:36:51.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/36952
+- author: RedBookcase
+  changes:
+  - message: Various changes to edged weapons, including new storage sprites and new
+      storage options.
+    type: Add
+  id: 8356
+  time: '2025-04-26T20:45:08.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/36564
+- author: archee1, Beck
+  changes:
+  - message: Inflatable walls no longer instantly deconstruct if canceled.
+    type: Fix
+  id: 8357
+  time: '2025-04-26T20:56:18.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/36937
